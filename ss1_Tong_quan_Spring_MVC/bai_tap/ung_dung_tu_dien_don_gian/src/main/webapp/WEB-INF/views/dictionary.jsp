@@ -8,9 +8,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>$Title$</title>
+    <title>DICTIONARY</title>
 </head>
 <body>
-$END$
+<h1>RESULT AFTER TRANSLATING</h1>
+<p>${search} : ${result}</p>
 </body>
 </html>
