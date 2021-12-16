@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69ec90d3-1aa3-4e33-9ce8-e005cce53dbb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../spring-email-validation/src/main/java/com/codegym/controller/EmailController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-email-validation/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-email-validation/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-email-validation/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-email-validation/src/main/webapp/WEB-INF/views/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-email-validation/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-timezone-gradle/src/main/java/com/codegym/controller/TimeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-timezone-gradle/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-timezone-gradle/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-timezone-gradle/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss1_Tong_quan_Spring_MVC/bai_tap/ung_dung_tu_dien_don_gian/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss1_Tong_quan_Spring_MVC/bai_tap/ung_dung_tu_dien_don_gian/.idea/gradle.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\C0821G1_Nguyen_Thanh_Duong_Module4\ss2_Spring_controller\thuc_hanh\spring-timezone-maven\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="22KIsHF1S7c6DC8JpCcA2TBgxcU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="timezone-maven" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="timezone-maven" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69ec90d3-1aa3-4e33-9ce8-e005cce53dbb" name="Default Changelist" comment="" />
+      <created>1639580056565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639580056565</updated>
+      <workItem from="1639580062289" duration="834000" />
+      <workItem from="1639626950012" duration="5156000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="306" y="43" key="#Project_Structure" timestamp="1639640172392">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="306" y="43" key="#Project_Structure/62.0.1304.768@62.0.1304.768" timestamp="1639640172392" />
+    <state x="494" y="140" key="FileChooserDialogImpl" timestamp="1639640638328">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="494" y="140" key="FileChooserDialogImpl/62.0.1304.768@62.0.1304.768" timestamp="1639640638328" />
+    <state width="1261" height="192" key="GridCell.Tab.0.bottom" timestamp="1639580896327">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="192" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1639580896327" />
+    <state width="1261" height="192" key="GridCell.Tab.0.center" timestamp="1639580896327">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="192" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1639580896327" />
+    <state width="1261" height="192" key="GridCell.Tab.0.left" timestamp="1639580896327">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="192" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1639580896327" />
+    <state width="1261" height="192" key="GridCell.Tab.0.right" timestamp="1639580896327">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="192" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1639580896327" />
+    <state x="410" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1639627504997">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="410" y="209" key="com.intellij.ide.util.TipDialog/62.0.1304.768@62.0.1304.768" timestamp="1639627504997" />
+    <state x="96" y="80" key="new project wizard" timestamp="1639640666991">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="96" y="80" key="new project wizard/62.0.1304.768@62.0.1304.768" timestamp="1639640666991" />
+  </component>
+</project>
